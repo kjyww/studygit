@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git is a free software distributed under the GPL.
+Git is a free software distributed under the GPL.（错误改了）
 Git has a mutable index called stage.
 Git tracks changes of files.
 I use github.
