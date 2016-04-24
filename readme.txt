@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 I use github.
 Create a new branch dev is quick. use "git checkout -b dev"
+Create a new branch yww is quick and simple.
